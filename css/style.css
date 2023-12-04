@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    height: 100%;
+    width: 100%; 
+}
+
+.header-image{
+    background-color: cornflowerblue;
+    height: 100px;
+    padding-right: 100%; 
+}
+
+.logo{
+    height: 50px;
+    position: absolute;
+    top: 40px;
+    left: 16px;
+}
+
+
+.grigie{    
+    color: gray;
+}
+
+#azzurre{
+    color: aquamarine;
+}
