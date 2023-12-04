@@ -1,7 +1,5 @@
 body{
     margin: 0;
-    height: 100%;
-    width: 100%; 
 }
 
 .header-image{
@@ -14,14 +12,46 @@ body{
     height: 50px;
     position: absolute;
     top: 40px;
-    left: 16px;
+    left: 12px;
 }
 
 
 .grigie{    
-    color: gray;
+    color: gray;    
 }
 
 #azzurre{
     color: aquamarine;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+
+
+
+
+.tabella{
+   border-collapse: collapse;
+    
+    
+}
+
+
+.parti{
+    background-color: cornflowerblue;
+    color: white;
+    
+}
+
+.rows{
+    background-color: aquamarine;
+    
+}
+
+th, td {
+    width:140px;
+    text-align:left;
+    padding:4px
 }
