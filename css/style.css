@@ -1,24 +1,20 @@
-body{
-    margin: 0;
+nav{
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+
 }
 
-.header-image{
-    background-color: cornflowerblue;
-    height: 100px;
-    padding-right: 100%; 
-}
 
 .logo{
-    height: 50px;
-    position: absolute;
-    top: 40px;
-    left: 12px;
+    height: 180px;
+    width: auto;
 }
 
 
 .grigie{    
     color: gray;    
 }
+
 
 #azzurre{
     color: aquamarine;
@@ -30,24 +26,19 @@ body{
 }
 
 
-
-
 .tabella{
    border-collapse: collapse;
-    
-    
 }
 
 
 .parti{
     background-color: cornflowerblue;
-    color: white;
-    
+    color: white; 
 }
+
 
 .rows{
     background-color: aquamarine;
-    
 }
 
 th, td {
@@ -56,11 +47,14 @@ th, td {
     padding:4px
 }
 
+
 .container {
     position: relative;
     text-align: left;
     color: white;
 }
+
+
 .top-left {
     position: absolute;
     top: 0;
