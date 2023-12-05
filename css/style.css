@@ -1,13 +1,16 @@
 nav {
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
-
+    background-size: auto 200%;  
 }
 
 
 .logo {
-    height: 180px;
-    width: auto;
+    height: auto;
+    width: 160px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    margin-left: 6px;
 }
 
 
