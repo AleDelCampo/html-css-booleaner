@@ -1,0 +1,75 @@
+nav {
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+    background-size: auto 200%;  
+}
+
+
+.logo {
+    height: auto;
+    width: 160px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    margin-left: 10%;
+    
+}
+
+
+.grigie {
+    color: gray;
+}
+
+
+#azzurre {
+    color: aquamarine;
+}
+
+
+.yellow {
+    background-color: yellow;
+}
+
+ul {
+    padding: 1%;
+}
+
+.tabella {
+    border-collapse: collapse;
+}
+
+
+.parti {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+.rows {
+    background-color: aquamarine;
+}
+
+th,
+td {
+    width: 140px;
+    text-align: left;
+    padding: 4px
+}
+
+/* tramite background-image eviterò di eseguire questo passaggio e semplificare il fattore immagine sfondo con testo */
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+
+.top-left {
+    position: absolute;
+    top: 0;
+    left: 8px;
+}
+
+.bonus{
+width: 80%;
+margin: auto;
+}
