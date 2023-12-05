@@ -1,50 +1,54 @@
-nav{
+nav {
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
 
 }
 
 
-.logo{
+.logo {
     height: 180px;
     width: auto;
 }
 
 
-.grigie{    
-    color: gray;    
+.grigie {
+    color: gray;
 }
 
 
-#azzurre{
+#azzurre {
     color: aquamarine;
 }
 
 
-.yellow{
+.yellow {
     background-color: yellow;
 }
 
+ul {
+    padding: 1%;
+}
 
-.tabella{
-   border-collapse: collapse;
+.tabella {
+    border-collapse: collapse;
 }
 
 
-.parti{
+.parti {
     background-color: cornflowerblue;
-    color: white; 
+    color: white;
 }
 
 
-.rows{
+.rows {
     background-color: aquamarine;
 }
 
-th, td {
-    width:140px;
-    text-align:left;
-    padding:4px
+th,
+td {
+    width: 140px;
+    text-align: left;
+    padding: 4px
 }
 
 
@@ -59,4 +63,4 @@ th, td {
     position: absolute;
     top: 0;
     left: 8px;
-  }
+}
