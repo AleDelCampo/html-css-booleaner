@@ -51,7 +51,7 @@ td {
     padding: 4px
 }
 
-
+/* tramite background-image eviterò di eseguire questo passaggio e semplificare il fattore immagine sfondo con testo */
 .container {
     position: relative;
     text-align: left;
